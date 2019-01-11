@@ -1,0 +1,5 @@
+{"level":"error","message":"failed to find city weather","timestamp":"2019-01-11T00:53:08.046Z"}
+{"level":"error","message":"failed to find city weather","timestamp":"2019-01-11T00:53:12.250Z"}
+{"level":"error","message":"failed to find city weather","city":"woodinville","timestamp":"2019-01-11T00:55:48.373Z"}
+{"level":"error","message":"failed to find city weather","city":"redmond","timestamp":"2019-01-11T00:55:51.162Z"}
+{"level":"error","message":"failed to find city weather","city":"woodinvile","timestamp":"2019-01-11T00:55:54.952Z"}
